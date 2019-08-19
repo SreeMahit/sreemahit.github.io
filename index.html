@@ -25,6 +25,26 @@
     
     <link rel="stylesheet" href="css/style.css">
   </head>
+  
+  <div id="loading"></div>
+    
+    #loading {
+    background: url('images/Profile.JPG') center center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 9999999;
+    }
+    
+    function hideLoader() {
+    $('#loading').hide();
+    }
+
+    $(window).ready(hideLoader);
+    setTimeout(hideLoader, 20 * 1000);
+  
   <body>
 
   <div class="js-animsition animsition" data-animsition-in-class="fade-in" data-animsition-out-class="fade-out">
