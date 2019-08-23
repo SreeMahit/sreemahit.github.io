@@ -43,9 +43,9 @@
     <div id="loading"></div>
 
      <script>
-            function hideLoader() {$('#loading').fadeOut();}
+            //function hideLoader() {$('#loading').fadeOut();}
             //setTimeout(function hideLoader() {$('#loading').fadeOut();}, 8 * 1000);
-            $(document).ready(hideLoader);
+            $(document).ready(function hideLoader() {$('#loading').fadeOut()});
     </script>
   
   
