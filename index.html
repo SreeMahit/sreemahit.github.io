@@ -47,7 +47,8 @@
      <script>
             //function hideLoader() {$('#loading').fadeOut();}
             //setTimeout(function hideLoader() {$('#loading').fadeOut();}, 8 * 1000);
-            $(window).ready(function hideLoader() {$('#loading').fadeOut()});
+            //$(window).ready(function hideLoader() {$('#loading').fadeOut()});
+            window.onload = function(){$('#loading').fadeOut()};
     </script>
   
   
