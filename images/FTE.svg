@@ -14,10 +14,12 @@
 	.st8{font-family:'GoogleSans-Regular';}
 	.st9{font-size:24px;}
 	.st10{fill:none;}
-	.st11{fill:#FFFFFF;}
-	.st12{font-family:'HelveticaNeue';}
-	.st13{font-size:16px;}
-	.st14{fill:none;stroke:#FFFFFF;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{enable-background:new    ;}
+	.st12{fill:#FFFFFF;}
+	.st13{font-family:'HelveticaNeue-Bold';}
+	.st14{font-size:16px;}
+	.st15{font-family:'HelveticaNeue';}
+	.st16{fill:none;stroke:#FFFFFF;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
 <rect class="st0" width="800" height="480"/>
 <g>
@@ -34,6 +36,7 @@
 <text transform="matrix(1 0 0 1 163.4297 329.4753)" class="st7 st4 st5">flight booking system</text>
 <text transform="matrix(1 0 0 1 190.4856 364.578)" class="st7 st8 st9">FTE/KLM/TU Delft Student Disruptor Global Design Challenge Winner</text>
 <rect x="591.4" y="14" class="st10" width="191.6" height="40.6"/>
-<text transform="matrix(1 0 0 1 591.4402 27.6857)"><tspan x="0" y="0" class="st11 st12 st13">Global Disruptor </tspan><tspan x="0" y="19.2" class="st11 st12 st13">Student Design Challenge</tspan></text>
-<polyline class="st14" points="576.8,0 576.8,61.6 558.9,48.7 540.9,61.6 540.9,0 "/>
+<text transform="matrix(1 0 0 1 591.4402 27.6857)" class="st11"><tspan x="0" y="0" class="st12 st13 st14">Winner</tspan><tspan x="53.6" y="0" class="st12 st15 st14">, Student Disruptor </tspan></text>
+<text transform="matrix(1 0 0 1 591.4402 46.8857)" class="st12 st15 st14">Global Design Challenge</text>
+<polyline class="st16" points="576.8,0 576.8,61.6 558.9,48.7 540.9,61.6 540.9,0 "/>
 </svg>
