@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1620 480" style="enable-background:new 0 0 1620 480;" xml:space="preserve">
+	 viewBox="0 0 800 480" style="enable-background:new 0 0 800 480;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#88C6D5;}
 	.st1{display:none;fill:#FFFFFF;enable-background:new    ;}
@@ -12,20 +12,20 @@
 	.st6{fill:none;stroke:#FFFFFF;stroke-width:5.7442;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st7{fill:#FFFFFF;}
 </style>
-<rect y="0.9" class="st0" width="1620" height="479.1"/>
-<text transform="matrix(1 0 0 1 714.478 344.7129)" class="st1 st2 st3">News</text>
-<text transform="matrix(1 0 0 1 661.895 381.2168)" class="st1 st2 st4">Bringing the habit back</text>
+<rect y="0.9" class="st0" width="800" height="479.1"/>
+<text transform="matrix(1 0 0 1 304.478 344.7129)" class="st1 st2 st3">News</text>
+<text transform="matrix(1 0 0 1 251.895 381.2168)" class="st1 st2 st4">Bringing the habit back</text>
 <g>
-	<path class="st5" d="M735.2,299.3L735.2,299.3L735.2,299.3z"/>
-	<path class="st6" d="M920.2,163.1v136.2c0,9.7-7.9,17.6-17.6,17.6H717.5c4.9,0,9.3-2,12.5-5.2c3.2-3.2,5.2-7.6,5.2-12.5V163.1
-		H920.2L920.2,163.1z"/>
-	<path class="st6" d="M735.2,203.7v95.6c0,9.7-7.9,17.6-17.6,17.6c-9.7,0-17.6-7.9-17.6-17.6v-95.6H735.2L735.2,203.7z"/>
-	<rect x="747.2" y="186.4" class="st7" width="159.6" height="23"/>
-	<rect x="861.6" y="216.9" class="st7" width="45.2" height="45.2"/>
-	<rect x="747.2" y="216.9" class="st7" width="107.8" height="10.1"/>
-	<rect x="747.2" y="234.5" class="st7" width="107.8" height="10.1"/>
-	<rect x="747.2" y="252" class="st7" width="107.8" height="10.1"/>
-	<rect x="747.2" y="269.6" class="st7" width="159.6" height="10.1"/>
-	<rect x="747.2" y="287.2" class="st7" width="159.6" height="10.1"/>
+	<path class="st5" d="M325.2,299.3L325.2,299.3L325.2,299.3z"/>
+	<path class="st6" d="M510.2,163.1v136.2c0,9.7-7.9,17.6-17.6,17.6H307.5c4.9,0,9.3-2,12.5-5.2s5.2-7.6,5.2-12.5V163.1H510.2
+		L510.2,163.1z"/>
+	<path class="st6" d="M325.2,203.7v95.6c0,9.7-7.9,17.6-17.6,17.6c-9.7,0-17.6-7.9-17.6-17.6v-95.6L325.2,203.7L325.2,203.7z"/>
+	<rect x="337.2" y="186.4" class="st7" width="159.6" height="23"/>
+	<rect x="451.6" y="216.9" class="st7" width="45.2" height="45.2"/>
+	<rect x="337.2" y="216.9" class="st7" width="107.8" height="10.1"/>
+	<rect x="337.2" y="234.5" class="st7" width="107.8" height="10.1"/>
+	<rect x="337.2" y="252" class="st7" width="107.8" height="10.1"/>
+	<rect x="337.2" y="269.6" class="st7" width="159.6" height="10.1"/>
+	<rect x="337.2" y="287.2" class="st7" width="159.6" height="10.1"/>
 </g>
 </svg>
