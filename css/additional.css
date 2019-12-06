@@ -24,3 +24,11 @@ html {
     width: 40%;
     padding: 20px;
   }
+
+.item3 {
+      display: inline-block;
+      text-align: center;
+      width: 110%;
+      padding: 30px;
+
+    }
