@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 480" style="enable-background:new 0 0 800 480;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#7ACEA4;}
+	.st1{display:none;}
+	.st2{display:inline;fill:#D03A2C;}
+	.st3{font-family:'Urbana-SemiBold';}
+	.st4{font-size:140.5396px;}
+	.st5{font-family:'ProximaNovaACond-Regular';}
+	.st6{font-size:55px;}
+	.st7{fill:#EDEDED;stroke:#000000;stroke-width:2.8643;stroke-miterlimit:10;}
+	.st8{fill:#7ACEA4;stroke:#000000;stroke-width:2.8643;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-width:2.8643;stroke-miterlimit:10;}
+</style>
+<rect y="0" class="st0" width="800" height="480"/>
+<title>BurgerKing</title>
+<g class="st1">
+	<text transform="matrix(1 0 0 1 181.7336 259.8948)" class="st2 st3 st4">#GrillTheNation</text>
+	<text transform="matrix(1 0 0 1 243.3276 323.5583)" class="st2 st5 st6">Burger King Advertising Campaign</text>
+</g>
+<g>
+	<circle class="st7" cx="400" cy="240" r="110.3"/>
+	<circle class="st8" cx="400" cy="240" r="96.5"/>
+	<path class="st7" d="M419.8,267.5c-3.5,9.6-14.5,14.5-25,10.7l-11.1-4c-10.5-3.8-15.8-14.6-12.3-24.3l16.4-45.1
+		c3.5-9.6,14.5-14.3,25-10.5l11.1,4c10.5,3.8,15.9,14.5,12.4,24.1L419.8,267.5z"/>
+	<line class="st9" x1="388.3" y1="203.5" x2="414.8" y2="213.1"/>
+	<line class="st9" x1="384.1" y1="215.1" x2="410.6" y2="224.8"/>
+	<line class="st9" x1="379.8" y1="226.8" x2="406.3" y2="236.5"/>
+	<line class="st9" x1="375.6" y1="238.5" x2="402.1" y2="248.1"/>
+	<line class="st9" x1="371.3" y1="250.1" x2="397.8" y2="259.8"/>
+	<polyline class="st7" points="393.8,284.9 383.3,283.9 383.3,335.1 393.8,336.1 393.8,284.9 	"/>
+	<circle class="st7" cx="388.6" cy="283.4" r="5.4"/>
+	<line class="st9" x1="425.3" y1="216.8" x2="436.8" y2="221"/>
+	<line class="st9" x1="421" y1="228.5" x2="432.5" y2="232.6"/>
+	<line class="st9" x1="416.8" y1="240.1" x2="428.3" y2="244.3"/>
+	<line class="st9" x1="412.5" y1="251.8" x2="424" y2="256"/>
+	<line class="st9" x1="408.3" y1="263.4" x2="419.8" y2="267.6"/>
+</g>
+</svg>
